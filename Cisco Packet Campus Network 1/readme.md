@@ -59,7 +59,4 @@ The network setup includes:
 
 This setup provides a secure and organized network environment with effective traffic segmentation using VLANs and proper access control measures.
 
-## License
-
-This project is licensed under the MIT License.
 
