@@ -59,4 +59,8 @@ The network setup includes:
 
 This setup provides a secure and organized network environment with effective traffic segmentation using VLANs and proper access control measures.
 
+## Note
+
+File 2.4 is the final file...
+
 
